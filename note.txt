@@ -1,0 +1,1 @@
+OS: Software that enables interactions between hardware and Software
